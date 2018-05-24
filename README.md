@@ -6,12 +6,13 @@
 ## Comandos de consola
 
    El siguiente comando nos permite trabajar y compilar nuestros ts a js
+
    npm install -g typescript
 
-
    El siguiente comando pone a typescript en observador sonre el archivo y compila automaticamente a js
+
    tsc archivo -w
 
+   Genera un archivo tsconfig.json ,siendo las reglas del compilador typescript
 
    tsc -init
-   Genera un archivo tsconfig.json ,siendo las reglas del compilador typescript
