@@ -5,7 +5,7 @@
 
 ## Comandos de consola
 
-   El siguiente comando nos permite trabajar y compilar nuestros ts a js
+   INSTALAR TYPESCRIPT
 
    npm install -g typescript
 
