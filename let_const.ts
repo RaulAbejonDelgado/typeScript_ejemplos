@@ -1,4 +1,4 @@
-//Variables let y Const
+//Variables/constantes let y Const
 //salida es adios
 var mensaje = "hola" ;
 
